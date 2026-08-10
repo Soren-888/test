@@ -1,4 +1,4 @@
 name = "my-python-worker"
-main = "src/p.py"
+main = "p.py"
 compatibility_date = "2026-05-26"
 compatibility_flags = ["python_workers"]
