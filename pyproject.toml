@@ -1,11 +1,12 @@
+
 [project]
 name = "my-python-worker"
 version = "0.1.0"
 dependencies = [
-    "workers-runtime-sdk"
+    "workers-runtime-sdk>=1.6.11"
 ]
 
 [dependency-groups]
 dev = [
-    "workers-py"
+    "workers-py>=1.90"
 ]
